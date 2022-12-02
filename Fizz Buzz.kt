@@ -31,6 +31,8 @@ Constraints:
 1 <= n <= 104
 */
 
+// My solution
+//============
 
 class Solution {
     fun fizzBuzz(n: Int): List<String> {
@@ -45,7 +47,24 @@ class Solution {
             } else{
                 list.add("$i")
             }
-	    }
+	}
         return list
+    }
+}
+
+
+// Best solution
+//==============
+
+class Solution {
+    fun fizzBuzz(n: Int): List<String> {
+        return (1..n).map { i ->
+            when { 
+                i % 3 == 0 && i % 5 == 0 -> "FizzBuzz"
+                i % 3 == 0 -> "Fizz"
+                i % 5 == 0 -> "Buzz"
+                else -> i.toString()
+            }
+        }
     }
 }

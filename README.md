@@ -5,4 +5,4 @@
 My solutions from my LeetCode account
 <p>Kotlin Exercises</p>
 
-1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/ "412. Fizz Buzz") solutions in [kotlin](My-LeetCode-Solutions/Fizz Buzz.kt)
+1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/ "412. Fizz Buzz") solutions in [kotlin](https://github.com/MechaArms/My-LeetCode-Solutions/blob/main/Fizz%20Buzz.kt)

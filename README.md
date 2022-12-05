@@ -4,3 +4,5 @@
 
 My solutions from my LeetCode account
 <p>Kotlin Exercises</p>
+
+1. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/ "412. Fizz Buzz") solutions in [kotlin](My-LeetCode-Solutions/Fizz Buzz.kt)

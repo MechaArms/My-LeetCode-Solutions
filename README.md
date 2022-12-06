@@ -9,3 +9,4 @@ My solutions from my LeetCode account
 2. [Two Sum](https://leetcode.com/problems/two-sum/ "1. Two Sum") solutions in [kotlin](https://github.com/MechaArms/My-LeetCode-Solutions/blob/main/Two%20Sum.kt)
 3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/ "2. Palindrome Number") solutions in [kotlin](https://github.com/MechaArms/My-LeetCode-Solutions/blob/main/Palindrome%20Number.kt)
 4. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/ "21. Merge Two Sorted Lists") solutions in [kotlin](https://github.com/MechaArms/My-LeetCode-Solutions/blob/main/Merge%20Two%20Sorted%20Lists.kt)
+5. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/855611950/ "20. Valid Parentheses") solutions in [kotlin](https://github.com/MechaArms/My-LeetCode-Solutions/blob/main/Valid%20Parentheses.kt)

@@ -46,3 +46,7 @@ class Solution {
         return head
     }
 }
+
+
+// Awnser link:
+// https://richcodersandme.github.io/LeetCode-Solution/tips/021/

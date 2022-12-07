@@ -19,6 +19,9 @@ Input: nums = [1,3,5,6], target = 7
 Output: 4
 */
 
+// My solution
+// ===========
+
 class Solution {
     fun searchInsert(nums: IntArray, target: Int): Int { 
         var i = 0
